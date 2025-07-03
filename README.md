@@ -7,7 +7,7 @@
 
 ### 📚 Проекты 📚
 
-* Кликни [сюда]() чтобы посмотреть мои проекты
+* Кликни [сюда](https://github.com/dashboard) чтобы посмотреть мои проекты
 
 ### 💡 Основные компетенции 💡
 - Инструменты: 
@@ -17,43 +17,11 @@
     * 
 
 ### ⚡️ В настоящее время ⚡️
-- 
-- 
-- 
-- 
+- looking for a job
+
 
 ### 🙌🏻 Свяжись со мной
 - [Telegram]()
-- [Kaggle]()
-
----
-
-### Hello! 👋
-
-### ✨ About me in 30 seconds ✨ 
-* 🎓 Education:
- - 
- - 
- - 
-* 
-* 
-* 
-* 
-
-### 💡 Core competencies 💡
-- Tools: 
-  - Skills:
-    * 
-    * 
-    * 
-
-
-### ⚡️ Currently ⚡️
-- 
-- 
-- 
 - 
 
-### 🙌🏻 Contact me
-- [Telegram]()
-- [Kaggle]()
+
